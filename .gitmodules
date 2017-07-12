@@ -1,0 +1,9 @@
+[submodule "apis-core"]
+	path = apis-core
+	url = https://github.com/acdh-oeaw/apis-core
+[submodule "apis-webpage"]
+	path = apis-webpage
+	url = https://github.com/acdh-oeaw/apis-webpage
+[submodule "apis-settings"]
+	path = apis-settings
+	url = https://github.com/acdh-oeaw/apis-settings
